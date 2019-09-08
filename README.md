@@ -21,7 +21,8 @@ With massive amounts of readily available data, professional sports teams, like 
 # Number of Made and Missed 2 and 3-pointers
 Images in this README will be rendered as static images. Many are interactive Plotly or Tableau visualizations within the notebooks
 
-<img src="https://lh3.googleusercontent.com/1fYAVbCOxqjTPxZwRsCu1BMu-DCdG6I-K4QjwR1Uv2XOtaDBfm0VUZRtHGWOWZyT1eGd4f0fzAD4a3laj1JxxQ0wi5MGL2nBfXS0epBIHmtJlmCIRa71TejQ8YwFm6Ey4O_9lwwdRK1kPTYsmtFuVPtZ3gUD3uLcUEdE8w6DDd9XVO-BUp36ARG20T7aCVGj0ORBUl9h_ci8WXuSZbpnsjvoJJJPphkNqF0oFtD9gN0oyzApxoH7Juz0fF3qcy5vSV4cLgRv3nJ4YWrpnqXdVKfUiNVYcMvVcgQzsoKJM_jwrK-0epr1sDxXljJwof5Ll_yjF2eKSYfZK9StzbqM1zMWJj2Fnm6LYAJniWJx-Ncymuaez2PN63pAQLG8IlhgPz79dbmZ3nLBX0X32UenJmDq3BaWfM39GkhEqBJWdF-CNGIVqi-LI3BMhTpux5XgEnnSrPon8gZLJgbcwh--f0UE-WA2gljc-7EnlxRs0_wWudLhHHghMgS_Qb4SSc4ucTuFQHUWjvURzKP_EdKHR_2g75dDfVKNZMCVpU4XPQ2ONNMd_fdCY0Di3iBsiqlwfogldGN9O2SHuR24OIB8CqJNPjNGeopzR22J1APq8navelIpjdZ5P4Bv7GOcgcxgWgIO-gRImt2E7seXo-AkNDnhkyOaaPogX2fTrs6AcYxKZqjLib4fiq8=w700-h450-no" width="850">
+<img src="Plotly Bar.png" width="850">
+
 
 - Overall Season 2-Point shooting Percentage = 49%
 - Overall Season 3-Point shooting Percentage = 35%
