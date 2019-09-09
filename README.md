@@ -43,6 +43,7 @@ This plot did give some insight on how the closest defender affects shot distanc
 <img src="GB game won model.PNG" width="850">
 
 # Best Close-Range Shooters 
+The interactive versions of the following four visualizations can be found in Capstone Notebook 2.ipynb.  All Tableau visualizations created for this project are also hosted here [Tableau Visualizations]( https://public.tableau.com/profile/bryan.dicarlo#!/?newProfile=&activeTab=0)
 
 <img src="CR shooters.PNG" width="850">
 
